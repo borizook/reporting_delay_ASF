@@ -1,4 +1,3 @@
-# reporting_delay
 # Stan Model for Report Delay
 This repository contains a Stan model for analyzing report delay data using a mixture of distributions: Weibull, Gamma, and Lognormal. The model aims to estimate the parameters of these distributions and their weights in the mixture.
 
